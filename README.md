@@ -1,6 +1,6 @@
 ### Hi there 👋
 I love experimenting with computer graphics and web applications.
-_.NET C# javascript blender threejs_ and others help me ...
+*.NET C# javascript blender threejs* and others help me ...
 
 <!--
 **moroz69off/moroz69off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
