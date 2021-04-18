@@ -2,6 +2,8 @@
 I love experimenting with computer graphics and web applications.
 *.NET C# javascript blender threejs* and others help me ...
 
+📫 How to reach me: info@yumor.xyz
+
 <!--
 **moroz69off/moroz69off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
