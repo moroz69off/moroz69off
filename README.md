@@ -2,6 +2,10 @@
 I love experimenting with computer graphics and web applications.
 *.NET C# javascript blender threejs* and others help me ...
 
+That's how it is
+- [Earth 3D model (threejs)](https://moroz69off.github.io/earththreed/)
+- [Complex chart (chartjs)](https://moroz69off.github.io/complex.chart/)
+
 📫 How to reach me: info@yumor.xyz
 
 <!--
