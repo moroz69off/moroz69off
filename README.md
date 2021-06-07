@@ -1,11 +1,13 @@
 ### Hi there 👋
 I love experimenting with computer graphics and web applications.
 
-*.NET C# javascript blender threejs* and others help me ...
+### .NET, C#, javascript, blender(3dsoftware), threejs
+  ___(and others)___ help me ...
 
 ##### That's how it is:
 - [Earth 3D model (threejs)](https://moroz69off.github.io/earththreed/)
 - [Complex chart (chartjs)](https://moroz69off.github.io/complex.chart/) , also here used [Bootstrap Multiselect](http://davidstutz.github.io/bootstrap-multiselect/) for the convenience of users.
+- [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper, for a fee.
 
 📫 How to reach me: info@yumor.xyz
 
