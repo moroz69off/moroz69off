@@ -7,7 +7,7 @@ I love experimenting with computer graphics and web applications.
 ##### That's how it is:
 - [Earth 3D model (threejs)](https://moroz69off.github.io/earththreed/)
 - [Complex chart (chartjs)](https://moroz69off.github.io/complex.chart/) , also here used [Bootstrap Multiselect](http://davidstutz.github.io/bootstrap-multiselect/) for the convenience of users.
-- [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper, for a fee.
+- [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper.
 
 📫 How to reach me: info@yumor.xyz
 
