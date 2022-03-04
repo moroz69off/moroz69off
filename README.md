@@ -10,7 +10,7 @@ _(and others)_
 - ⚡ **Fun fact:** I'm as old as the internet - 52 years old. <!-- Superstar! -->
 <!-- - [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper. -->
 
-📫 How to reach me: info@yumor.xyz
+📫 How to reach me: moroz69off@gmail.com
 
 <!--
 **moroz69off/moroz69off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
