@@ -2,7 +2,7 @@
 I love experimenting with computer graphics and web applications.
 
 ### .NET, C#, javascript, blender(3d, software), threejs
-  ___(and others)___ help me ...
+_(and others)_
 
 ##### That's how it is:
 - [Earth 3D model (threejs)](https://moroz69off.github.io/earththreed/)
