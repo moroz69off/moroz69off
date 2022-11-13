@@ -6,7 +6,7 @@ I love experimenting with computer graphics and web applications.
 ##### That's how it is:
 - [Earth 3D model (threejs)](https://moroz69off.github.io/earththreed/)
 - [Complex chart (chartjs)](https://moroz69off.github.io/complex.chart/) , also here used [Bootstrap Multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
-- [My personal web page](https://yumor.xyz). However, there is nothing
+- [My personal web page](https://yu-mor.xyz). However, there is nothing
 - ⚡ **Fun fact:** I'm as old as the internet - 1969 year of birth. <!-- Superstar! -->
 <!-- - [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper. -->
 
