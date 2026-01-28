@@ -10,7 +10,7 @@ I love experimenting with computer graphics and web applications.
 - ⚡ **Fun fact:** I'm as old as the internet - 1969 year of birth. <!-- Superstar! -->
 <!-- - [FuzzyLogic (clearly, in pictures)](https://adamtheiner.github.io/fuzzy/machine.html) term paper. -->
 
-📫 How to reach me: moroz69off@gmail.com
+📫 How to reach me: moroz69off@gmail.com moroz69off@mail.ru
 
 <!--
 **moroz69off/moroz69off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
